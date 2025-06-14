@@ -2,3 +2,4 @@
 
 apache-airflow-providers-dbt-cloud>=3.0.0
 astronomer-providers[dbt_cloud]
+astronomer-providers[dbt]>=1.15.0
