@@ -1,0 +1,4 @@
+container:
+    binary: podman
+project:
+    name: airflow-dbt-cloud
